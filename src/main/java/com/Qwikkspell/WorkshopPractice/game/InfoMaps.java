@@ -68,8 +68,7 @@ public class InfoMaps {
                 Map.entry(Material.OAK_BOAT, "a Boat"),
                 Map.entry(Material.OAK_FENCE, "a Fence"),
                 Map.entry(Material.OAK_FENCE_GATE, "a Fence Gate"),
-                Map.entry(Material.SHEARS, "Shears"),
-                Map.entry(Material.ARMOR_STAND, "an Armor Stand")
+                Map.entry(Material.SHEARS, "Shears")
         );
 
         private static final List<String> foremanNames = Arrays.asList(
